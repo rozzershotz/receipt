@@ -1,1 +1,1 @@
-# receipt
+a python receipt thing for school
